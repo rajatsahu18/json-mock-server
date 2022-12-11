@@ -4032,9 +4032,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/bamboo-sea-salt-whitening-antiplaque-toothpaste-363920_1024x.png?v=1660858353",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": "Adult",
-      "best_Selling": "Best Selling"
+      "sell_type": false,
+      "rating": 3.8,
+      "reviews": 87
+
     },
     {
       "id": 2,
@@ -4042,8 +4043,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/charcoal-black-seed-oil-whitening-antiplaque-toothpaste-174005_1024x.png?v=1660858351",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": "Complete Care"
+      "sell_type": true,
+      "rating": 4.4,
+      "reviews": 49
+
     },
     {
       "id": 3,
@@ -4051,9 +4054,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-bubble-gum-939127_1024x.jpg?v=1660858349",
       "price": 4.99,
       "category": "Oral Care",
-      "flavour": "Bubble Gum",
-      "product_type": "Kids",
-      "best_Selling": "Best Selling"
+      "sell_type": false,
+      "rating": 3.9,
+      "reviews": 62
+
     },
     {
       "id": 4,
@@ -4061,8 +4065,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-cool-mint-459294_1024x.jpg?v=1660858330",
       "price": 4.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": "Kids"
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 62
+
     },
     {
       "id": 5,
@@ -4070,8 +4076,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-orange-874168_1024x.jpg?v=1660813414",
       "price": 4.99,
       "category": "Oral Care",
-      "flavour": "Orange",
-      "product_type": "Kids"
+      "sell_type": false,
+      "rating": 3.5,
+      "reviews": 43
+
     },
     {
       "id": 6,
@@ -4079,13 +4087,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/neem-pomegranate-original-toothpaste-399591_1024x.png?v=1660858351",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": [
-        "Whitening",
-        "Adult",
-        "Travel"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 10
+
     },
     {
       "id": 7,
@@ -4093,24 +4099,23 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/CC-Cinnamon---Box-Tube_1024x.png?v=1597743708",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Cinnamon",
-      "product_type": [
-        "Adult",
-        "Complete Care"
-      ]
-    },
+    
+      "sell_type": true,
+      "rating": 3.2,
+  "reviews": 41
+
+},
     {
       "id": 8,
       "name": "Simply Mint Complete Care Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-complete-care-toothpaste-964667_1024x.png?v=1660858348",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": [
-        "Adult",
-        "Complete Care"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": false,
+      "rating": 4.6,
+      "reviews": 67
+
     },
     {
       "id": 9,
@@ -4120,12 +4125,11 @@
       "suggestedUse": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": [
-        "Whitening",
-        "Adult",
-        "Travel"
-      ]
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 40
+
     },
     {
       "id": 10,
@@ -4133,12 +4137,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-complete-care-toothpaste-417879_1024x.png?v=1660858326",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Peppermint",
-      "product_type": [
-        "Adult",
-        "Complete Care"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 53
+
     },
     {
       "id": 11,
@@ -4146,12 +4149,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-whitening-toothpaste-812965_1024x.png?v=1660858328",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Peppermint",
-      "product_type": [
-        "Whitening",
-        "Adult",
-        "Travel"
-      ]
+    
+      "sell_type": false,
+      "rating": 3.6,
+      "reviews": 53
+
     },
     {
       "id": 12,
@@ -4159,11 +4161,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-spearmint-complete-care-toothpaste-221182_1024x.png?v=1660858355",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Spearmint",
-      "product_type": [
-        "Adult",
-        "Complete Care"
-      ]
+    
+      "sell_type": false,
+      "rating": 3.3,
+      "reviews": 51
+
     },
     {
       "id": 13,
@@ -4171,8 +4173,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/turmeric-coconut-oil-whitening-antiplaque-toothpaste-868330_1024x.jpg?v=1660813421",
       "price": 5.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": "Adult"
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 56
+
     },
     {
       "id": 14,
@@ -4180,9 +4185,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/xylitol-toothpaste-556254_1024x.png?v=1660858352",
       "price": 6.99,
       "category": "Oral Care",
-      "flavour": "Mint",
-      "product_type": "Complete Care",
-      "best_Selling": "Best Selling"
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 50
+
     },
     {
       "id": 15,
@@ -4190,10 +4197,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-purifying-neem-turmeric-342355_1024x.png?v=1660858341",
       "price": 4.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Cleansings Bars"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.2,
+      "reviews": 63
+
     },
     {
       "id": 16,
@@ -4201,10 +4209,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-refreshing-lavender-rosemary-879892_1024x.png?v=1660858358",
       "price": 4.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Cleansings Bars"
-      ]
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
     },
     {
       "id": 17,
@@ -4212,11 +4221,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chest-balm-pm-819164_1024x.png?v=1660813421",
       "price": 7.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Balms"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": true,
+      "rating": 4.9,
+      "reviews": 48
+
     },
     {
       "id": 18,
@@ -4224,10 +4233,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-scrub-exfoliating-walnut-wood-apple-119171_1024x.png?v=1660813418",
       "price": 8.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Face Care"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.6,
+      "reviews": 79
+
     },
     {
       "id": 19,
@@ -4235,10 +4245,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-balancing-neem-turmeric-914790_1024x.png?v=1660813411",
       "price": 8.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Face Care"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 40
+
     },
     {
       "id": 20,
@@ -4246,11 +4257,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-hydrating-797207_1024x.png?v=1660858314",
       "price": 8.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Face Care"
-      ],
-      "best_Selling": "Best Selling"
+      "sell_type": true,
+      "rating": 4.7,
+      "reviews": 50
+
     },
     {
       "id": 21,
@@ -4258,10 +4268,10 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-invigorating-397240_1024x.png?v=1660858334",
       "price": 8.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Face Care"
-      ]
+      "sell_type": true,
+      "rating": 3.2,
+      "reviews": 35
+
     },
     {
       "id": 22,
@@ -4269,11 +4279,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/warming-body-balm-370691_1024x.png?v=1660858353",
       "price": 7.99,
       "category": "Personal Care",
-      "product_type": [
-        "All",
-        "Balms"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
     },
     {
       "id": 23,
@@ -4283,72 +4293,10 @@
       "suggestedUse": "Part One: Take one capsule in the morning after breakfast. Part two: Take one capsule in the evening after dinner.",
       "price": 29.25,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ],
-      "best_Selling": "Best Selling"
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
     },
     {
       "id": 24,
@@ -4358,71 +4306,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 15.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 74
+
     },
     {
       "id": 25,
@@ -4432,72 +4320,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 22.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "best_Selling": "Best Selling",
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.3,
+      "reviews": 58
+
     },
     {
       "id": 26,
@@ -4507,71 +4334,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 12.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 56
+
     },
     {
       "id": 27,
@@ -4581,72 +4348,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 10.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.7,
+      "reviews": 56
+
     },
     {
       "id": 28,
@@ -4656,71 +4362,12 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 16.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+      
+    
+      "sell_type": false,
+      "rating": 3.3,
+      "reviews": 51
+
     },
     {
       "id": 29,
@@ -4730,72 +4377,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 10.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 30,
@@ -4805,71 +4391,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 12.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.6,
+      "reviews": 81
+
     },
     {
       "id": 31,
@@ -4879,71 +4405,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 7.99,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.8,
+      "reviews": 30
+
     },
     {
       "id": 32,
@@ -4953,72 +4419,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 8.76,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 74
+
     },
     {
       "id": 33,
@@ -5028,71 +4433,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 6.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 34,
@@ -5102,72 +4447,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 6.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.0,
+      "reviews": 90
+
     },
     {
       "id": 35,
@@ -5177,71 +4461,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 8.99,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 36,
@@ -5251,72 +4475,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 9.88,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.4,
+      "reviews": 72
+
     },
     {
       "id": 37,
@@ -5326,72 +4489,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 13.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 3.9,
+      "reviews": 35
+
     },
     {
       "id": 38,
@@ -5401,71 +4503,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 26.25,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.5,
+      "reviews": 51
+
     },
     {
       "id": 39,
@@ -5475,72 +4517,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 7.99,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+      "sell_type": true,
+
+      "rating": 4.8,
+      "reviews": 92
+
     },
     {
       "id": 40,
@@ -5550,72 +4531,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 5.25,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 41,
@@ -5625,71 +4545,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 5.29,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+   
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 73
+
     },
     {
       "id": 42,
@@ -5699,71 +4559,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 18.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 43,
@@ -5773,72 +4573,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 6.65,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 59
+
     },
     {
       "id": 44,
@@ -5848,72 +4587,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 5.55,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.9,
+      "reviews": 59
+
     },
     {
       "id": 45,
@@ -5923,72 +4601,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 9.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.4,
+      "reviews": 44
+
     },
     {
       "id": 46,
@@ -5998,71 +4615,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 24.49,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.3,
+      "reviews": 60
+
     },
     {
       "id": 47,
@@ -6072,72 +4629,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 9.86,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 59
+
     },
     {
       "id": 48,
@@ -6147,71 +4643,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 7.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 3.1,
+      "reviews": 23
+
     },
     {
       "id": 49,
@@ -6221,72 +4657,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 7.99,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+      "sell_type": true,
+
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 50,
@@ -6296,71 +4671,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 8.99,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.9,
+      "reviews": 54
+
     },
     {
       "id": 51,
@@ -6370,71 +4685,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": "22.75",
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+      "sell_type": false,
+
+      "rating": 4.8,
+      "reviews": 73
+
     },
     {
       "id": 52,
@@ -6444,72 +4699,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 21.25,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "best_Selling": "Best Selling",
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 4.1,
+      "reviews": 98
+
     },
     {
       "id": 53,
@@ -6519,71 +4713,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 12.25,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 20
+
     },
     {
       "id": 54,
@@ -6593,71 +4727,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 17.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
     },
     {
       "id": 55,
@@ -6667,72 +4741,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 12.75,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "best_Selling": "Best Selling",
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": false,
+      "rating": 3.1,
+      "reviews": 53
+
     },
     {
       "id": 56,
@@ -6742,66 +4755,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": "12.75",
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs"
-      ],
-      "Product Forms": [
-        "All",
-        "Chews"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 23
+
     },
     {
       "id": 57,
@@ -6811,71 +4769,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 23.65,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Capsules",
-        "Chews",
-        "Lozenges",
-        "Powder"
-      ],
-      "best_Selling": "Best Selling",
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 54
+
     },
     {
       "id": 58,
@@ -6885,66 +4783,11 @@
       "suggestedUse": "Adults take 2 capsules twice daily with food",
       "price": 15.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs"
-      ],
-      "Product Forms": [
-        "All",
-        "Capsules"
-      ],
-      "Herbs": [
-        "Amla",
-        "Arjuna",
-        "Ashwagandha",
-        "Bacopa",
-        "Bitter Melon",
-        "Boswellia",
-        "Garcinia",
-        "Garlic",
-        "Ginger",
-        "Guduchi",
-        "Guggul",
-        "Gymnema",
-        "Holy Basil",
-        "Licorice",
-        "Mucuna",
-        "Neem",
-        "Shatavari",
-        "Tribulus",
-        "Trikatu",
-        "Triphala",
-        "Turmeric"
-      ],
-      "Attributes": [
-        "Organic",
-        "Non-GMO",
-        "Vegan",
-        "Gluten Free",
-        "Additive Free",
-        "Wheat Free",
-        "Corn Free",
-        "Soy Free",
-        "Dairy Free"
-      ]
+    
+      "sell_type": true,
+      "rating": 4.0,
+      "reviews": 53
+
     },
     {
       "id": 59,
@@ -6952,34 +4795,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-mucuna-267584_1024x.png?v=1660813418",
       "price": 19.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Single Herbs"
-      ],
-      "Product Forms": [
-        "All",
-        "Caplets",
-        "Powder"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 50
+
     },
     {
       "id": 60,
@@ -6987,33 +4807,11 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-neem-420131_1024x.png?v=1660813427",
       "price": 17.95,
       "category": "Herbal Supplements",
-      "Health_Interest": [
-        "Blood Sugar",
-        "Brain & Cognitive",
-        "Digestion",
-        "Energy & Vitality",
-        "Hair , Skin & Nails",
-        "Heart & Cardio",
-        "Immune Support",
-        "Joint & Mobility",
-        "Liver & Cleanse",
-        "Men's Wellness",
-        "Respiratory",
-        "Sleep",
-        "Stress & Mood",
-        "Urinary",
-        "Weight Management",
-        "Women's wellness"
-      ],
-      "product_type": [
-        "All",
-        "Formulas"
-      ],
-      "Product Forms": [
-        "All",
-        "Powder"
-      ],
-      "best_Selling": "Best Selling"
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
     }
   ],
   "mamaearth": [
@@ -7021,300 +4819,500 @@
         "id": 1,
         "name": "Milky Soft body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 24,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 2,
         "name": "Milky Soft face cream for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky_soft_face_cream_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 88,
+        
         "price": "699",
         "category": "baby"
       }, {
         "id": 3,
         "name": "Nourishing bathing bar for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/n/o/nourishing-bathing-bars_2_anb6wlrvagej2noa.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 73,
+        
         "price": "999",
         "category": "baby"
       }, {
         "id": 4,
         "name": "Nourishing hair oil for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 88,
+        
         "price": "199",
         "category": "baby"
       }, {
         "id": 5,
         "name": "Coconut bodywash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-bw-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 25,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 6,
         "name": "Coco soft body lotion for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco_soft_body_lotion_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.6,
+        "reviews": 29,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 7,
         "name": "Foaming face wash for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/_/f/_foaming-face-wash-for-kids_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 5.0,
+        "reviews": 86,
+        
         "price": "399",
         "category": "baby"
       }, {
         "id": 8,
         "name": "Milky soft body lotion for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.6,
+        "reviews": 51,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 9,
         "name": "Milky soft shampoo for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/m/i/milky-soft-shampoo-1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
         "price": "899",
         "category": "baby"
       }, {
         "id": 10,
         "name": "Nourishing hair oil for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.7,
+        "reviews": 48,
+        
         "price": "199",
         "category": "baby"
       }, {
         "id": 11,
         "name": "Soothing massage oil for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_massage_oil_200_ml__1200x1200__i0oy2adtieurwcls.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.0,
+        "reviews": 44,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 12,
         "name": "Fruit nourishing body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/b/o/body-wash_probs_ui8gwmtjnj2sahbz.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 71,
+        
         "price": "499",
         "category": "baby"
       }, {
         "id": 13,
         "name": "Strawberry body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry_baby_body_wash_1.jpeg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "399",
         "category": "baby"
       }, {
         "id": 14,
         "name": "Plants based diaper pants",
         "img": "https://honasa-mamaearth-production.imgix.net/d/i/diapers-xl-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.7,
+        "reviews": 48,
+        
         "price": "899",
         "category": "baby"
       }, {
         "id": 15,
         "name": "Mamaearth strawberry body wash for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry_baby_body_wash_1.jpeg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 16,
         "name": "Plants based diaper pants",
         "img": "https://honasa-mamaearth-production.imgix.net/d/i/diapers-xl-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "399",
         "category": "baby"
       }, {
         "id": 17,
         "name": "Nourishing bathing gel for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/d/u/dusting-powder_300g_with-props_1200x1200__nbm9n3snr7a8y8tw.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.1,
+        "reviews": 58,
+        
         "price": "799",
         "category": "baby"
       }, {
         "id": 18,
         "name": "Strawberry toothpaste for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/f/d/fds_3303_props_ruzez6eezs3ytpy8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
         "price": "1099",
         "category": "baby"
       }, {
         "id": 19,
         "name": "Coconut soft shampoo for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-soft-shampoo_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "299",
         "category": "baby"
       }, {
         "id": 20,
         "name": "Coco soft face cream for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-soft-face-cream_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.5,
+        "reviews": 78,
+        
         "price": "699",
         "category": "baby"
       }, {
         "id": 21,
         "name": "Coco soft massage oil for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-oil-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "899",
         "category": "baby"
       }, {
         "id": 22,
         "name": "Plant based body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/a/g/agent-apple-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "799",
         "category": "baby"
       }, {
         "id": 23,
         "name": "Haldi based body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/m/a/mango-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
         "price": "699",
         "category": "baby"
       }, {
         "id": 24,
         "name": "Strawberry body wash for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/s/u/super-strawberry-body-lotion.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.1,
+        "reviews": 58,
+        
         "price": "199",
         "category": "baby"
       }, {
         "id": 25,
         "name": "Mamaearth body kit for babies",
         "img": "https://honasa-mamaearth-production.imgix.net/w/i/winter_essential_kit_for_babies_1_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "2999",
         "category": "baby"
       }, {
         "id": 26,
         "name": "Coco and beans Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-lip-balm_1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
         "price": "2199",
         "category": "makeup"
       }, {
         "id": 27,
         "name": "Apple Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_15.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
         "price": "1299",
         "category": "makeup"
       }, {
         "id": 28,
         "name": "Strawberry Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_16.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.4,
+        "reviews": 62,
+        
         "price": "299",
         "category": "makeup"
       }, {
         "id": 29,
         "name": "Glow Serum Foundation",
         "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
         "price": "2249",
         "category": "makeup"
       }, {
         "id": 30,
         "name": "Haldi Serum Foundation",
         "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-face-serum1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.4,
+        "reviews": 62,
+        
         "price": "699",
         "category": "makeup"
       }, {
         "id": 31,
         "name": "Honey based Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/v/i/vitamin-c-lip-balm_1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
         "price": "2299",
         "category": "makeup"
       }, {
         "id": 32,
         "name": "Glow Serum Foundation",
         "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_9.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "299",
         "category": "makeup"
       }, {
         "id": 33,
         "name": "Mamaearth Charcoal Black Kajal",
         "img": "https://honasa-mamaearth-production.imgix.net/k/a/kajal_pack_of_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
         "price": "1599",
         "category": "makeup"
       }, {
         "id": 34,
         "name": "Nourishing natural lip balm",
         "img": "https://honasa-mamaearth-production.imgix.net/s/h/shea-butter-front.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 82,
+        
         "price": "1899",
         "category": "makeup"
       }, {
         "id": 35,
         "name": "Glow Serum Foundation",
         "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_13.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 87,
+        
         "price": "1099",
         "category": "makeup"
       }, {
         "id": 36,
         "name": "Orange Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/s/h/shade_3.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.5,
+        "reviews": 78,
+        
         "price": "1399",
         "category": "makeup"
       }, {
         "id": 37,
         "name": "Glow Concealer",
         "img": "https://honasa-mamaearth-production.imgix.net/3/_/3_8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.2,
+        "reviews": 39,
+        
         "price": "2699",
         "category": "makeup"
       }, {
         "id": 38,
         "name": "Glow Oil Control Compact",
         "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_3_8_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "2099",
         "category": "makeup"
       }, {
         "id": 39,
         "name": "Eye Primer",
         "img": "https://honasa-mamaearth-production.imgix.net/p/r/product_swatch_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 82,
+        
         "price": "2599",
         "category": "makeup"
       }, {
         "id": 40,
         "name": "Pomegranate Lipstick",
         "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_11.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "2499",
         "category": "makeup"
       }, {
         "id": 41,
         "name": "Strawberry Nourishing Lip Balm",
         "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry-front.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
         "price": "2949",
         "category": "makeup"
       }, {
         "id": 42,
         "name": "Uptan Body Lotion",
         "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-body-lotion1_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 82,
+        
         "price": "2949",
         "category": "body"
       }, {
         "id": 43,
         "name": "Mamaearth Me Scent",
         "img": "https://honasa-mamaearth-production.imgix.net/f/l/floral-e.com-1_1_3.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 98,
+        
         "price": "1399",
         "category": "body"
       }, {
         "id": 44,
         "name": "Rose Body Lotion",
         "img": "https://honasa-mamaearth-production.imgix.net/r/o/rose-body-lotion_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 18,
+        
         "price": "1499",
         "category": "body"
       }, {
         "id": 45,
         "name": "Vitamin C Body Lotion",
         "img": "https://honasa-mamaearth-production.imgix.net/v/i/vit-c-body-lotion-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
         "price": "1899",
         "category": "body"
       }, {
         "id": 46,
         "name": "Uptan Nourishing Cold Cream",
         "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "299",
         "category": "body"
       }, {
         "id": 47,
         "name": "Vitamin C Body Wash",
         "img": "https://honasa-mamaearth-production.imgix.net/v/i/vitamin-c-body-wash-1_1_53czcglrjlhrmufp.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 18,
+        
         "price": "799",
         "category": "body"
       }, {
         "id": 48,
         "name": "Mamaearth Cold Scent",
         "img": "https://honasa-mamaearth-production.imgix.net/p/e/perfume-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 82,
+        
         "price": "499",
         "category": "body"
       }, {
         "id": 49,
         "name": "Nourishing bathing soap for kids",
         "img": "https://honasa-mamaearth-production.imgix.net/a/l/all-range-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
         "price": "999",
         "category": "body"
       }, {
         "id": 50,
         "name": "Coco Nourishing Cold Cream",
         "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-cold-cream-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
         "price": "699",
         "category": "body"
       }
