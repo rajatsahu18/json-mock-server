@@ -4030,40 +4030,37 @@
       "id": 1,
       "name": "Bamboo & Sea Salt Whitening Antiplaque Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/bamboo-sea-salt-whitening-antiplaque-toothpaste-363920_1024x.png?v=1660858353",
-      "price": 5.99,
+      "price": 549,
       "category": "Oral Care",
       "sell_type": false,
       "rating": 3.8,
       "reviews": 87
-
     },
     {
       "id": 2,
       "name": "Charcoal & Black Seed Oil Whitening Antiplaque Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/charcoal-black-seed-oil-whitening-antiplaque-toothpaste-174005_1024x.png?v=1660858351",
-      "price": 5.99,
+      "price": 549,
       "category": "Oral Care",
       "sell_type": true,
       "rating": 4.4,
       "reviews": 49
-
     },
     {
       "id": 3,
       "name": "Kids Toothpaste - Bubble Gum",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-bubble-gum-939127_1024x.jpg?v=1660858349",
-      "price": 4.99,
+      "price": 449,
       "category": "Oral Care",
       "sell_type": false,
       "rating": 3.9,
       "reviews": 62
-
     },
     {
       "id": 4,
       "name": "Kids Toothpaste - Cool Mint",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-cool-mint-459294_1024x.jpg?v=1660858330",
-      "price": 4.99,
+      "price": 449,
       "category": "Oral Care",
       "sell_type": true,
       "rating": 5.0,
@@ -4074,7 +4071,7 @@
       "id": 5,
       "name": "Kids Toothpaste - Orange",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-orange-874168_1024x.jpg?v=1660813414",
-      "price": 4.99,
+      "price": 449,
       "category": "Oral Care",
       "sell_type": false,
       "rating": 3.5,
@@ -4085,7 +4082,7 @@
       "id": 6,
       "name": "Neem & Pomegranate Original Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/neem-pomegranate-original-toothpaste-399591_1024x.png?v=1660858351",
-      "price": 5.99,
+      "price": 459,
       "category": "Oral Care",
     
       "sell_type": false,
@@ -4097,7 +4094,7 @@
       "id": 7,
       "name": "Simply Cinnamon Complete Care Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/CC-Cinnamon---Box-Tube_1024x.png?v=1597743708",
-      "price": 5.99,
+      "price": 459,
       "category": "Oral Care",
     
       "sell_type": true,
@@ -4109,7 +4106,7 @@
       "id": 8,
       "name": "Simply Mint Complete Care Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-complete-care-toothpaste-964667_1024x.png?v=1660858348",
-      "price": 5.99,
+      "price": 519,
       "category": "Oral Care",
     
       "sell_type": false,
@@ -4123,7 +4120,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-whitening-toothpaste-687185_1024x.png?v=1660858335",
       "Product_desc": "Ditch your whitening routine and come to the plant-based side! Whitening Complete Care Simply Mint Toothpaste leverages the enzymes from Papaya and Pineapple to help whiten your teeth while removing stubborn surface stains and offering a remarkably great taste and foamy texture you’ll love.",
       "suggestedUse": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
-      "price": 5.99,
+      "price": 549,
       "category": "Oral Care",
     
       "sell_type": true,
@@ -4135,7 +4132,7 @@
       "id": 10,
       "name": "Simply Peppermint Complete Care Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-complete-care-toothpaste-417879_1024x.png?v=1660858326",
-      "price": 5.99,
+      "price": 599,
       "category": "Oral Care",
     
       "sell_type": false,
@@ -4147,7 +4144,7 @@
       "id": 11,
       "name": "Simply Peppermint Whitening Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-whitening-toothpaste-812965_1024x.png?v=1660858328",
-      "price": 5.99,
+      "price": 509,
       "category": "Oral Care",
     
       "sell_type": false,
@@ -4159,7 +4156,7 @@
       "id": 12,
       "name": "Simply Spearmint Complete Care Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-spearmint-complete-care-toothpaste-221182_1024x.png?v=1660858355",
-      "price": 5.99,
+      "price": 599,
       "category": "Oral Care",
     
       "sell_type": false,
@@ -4171,7 +4168,7 @@
       "id": 13,
       "name": "Turmeric & Coconut Oil Whitening Antiplaque Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/turmeric-coconut-oil-whitening-antiplaque-toothpaste-868330_1024x.jpg?v=1660813421",
-      "price": 5.99,
+      "price": 599,
       "category": "Oral Care",
     
       "sell_type": true,
@@ -4183,7 +4180,7 @@
       "id": 14,
       "name": "Xylitol Toothpaste",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/xylitol-toothpaste-556254_1024x.png?v=1660858352",
-      "price": 6.99,
+      "price": 639,
       "category": "Oral Care",
     
       "sell_type": true,
@@ -4195,7 +4192,7 @@
       "id": 15,
       "name": "Body Bar: Purifying (Neem & Turmeric)",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-purifying-neem-turmeric-342355_1024x.png?v=1660858341",
-      "price": 4.99,
+      "price": 429,
       "category": "Personal Care",
     
       "sell_type": false,
@@ -4207,7 +4204,7 @@
       "id": 16,
       "name": "Body Bar: Refreshing (Lavender & Rosemary)",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-refreshing-lavender-rosemary-879892_1024x.png?v=1660858358",
-      "price": 4.99,
+      "price": 419,
       "category": "Personal Care",
     
       "sell_type": true,
@@ -4219,7 +4216,7 @@
       "id": 17,
       "name": "Chest Balm P.M.",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chest-balm-pm-819164_1024x.png?v=1660813421",
-      "price": 7.99,
+      "price": 719,
       "category": "Personal Care",
     
       "sell_type": true,
@@ -4231,7 +4228,7 @@
       "id": 18,
       "name": "Face Scrub: Exfoliating (Walnut & Wood Apple)",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-scrub-exfoliating-walnut-wood-apple-119171_1024x.png?v=1660813418",
-      "price": 8.99,
+      "price": 189,
       "category": "Personal Care",
     
       "sell_type": true,
@@ -4243,7 +4240,7 @@
       "id": 19,
       "name": "Face Wash: Balancing (Neem & Turmeric)",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-balancing-neem-turmeric-914790_1024x.png?v=1660813411",
-      "price": 8.99,
+      "price": 899,
       "category": "Personal Care",
     
       "sell_type": false,
@@ -4255,7 +4252,7 @@
       "id": 20,
       "name": "Face Wash: Hydrating",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-hydrating-797207_1024x.png?v=1660858314",
-      "price": 8.99,
+      "price": 899,
       "category": "Personal Care",
       "sell_type": true,
       "rating": 4.7,
@@ -4266,7 +4263,7 @@
       "id": 21,
       "name": "Face Wash: Invigorating",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-invigorating-397240_1024x.png?v=1660858334",
-      "price": 8.99,
+      "price": 899,
       "category": "Personal Care",
       "sell_type": true,
       "rating": 3.2,
@@ -4277,7 +4274,7 @@
       "id": 22,
       "name": "Warming Body Balm",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/warming-body-balm-370691_1024x.png?v=1660858353",
-      "price": 7.99,
+      "price": 799,
       "category": "Personal Care",
     
       "sell_type": true,
@@ -4291,7 +4288,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/back-to-balance-cleanse-297598_1024x.png?v=1660858351",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Part One: Take one capsule in the morning after breakfast. Part two: Take one capsule in the evening after dinner.",
-      "price": 29.25,
+      "price": 2925,
       "category": "Herbal Supplements",
       "sell_type": true,
       "rating": 3.3,
@@ -4304,7 +4301,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/boswellia-327756_1024x1024.png?v=1666136643",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 15.95,
+      "price": 1595,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4318,7 +4315,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chyavanprash-105275_1024x.png?v=1660858328",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 22.75,
+      "price": 2275,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4332,7 +4329,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/comfortcleanse-636861_1024x.png?v=1660858348",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 12.95,
+      "price": 1295,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4346,7 +4343,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/curcumin-complete-187497_1024x.png?v=1660858326",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 10.95,
+      "price": 1095,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4360,7 +4357,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/dermacare-422043_1024x.png?v=1660858352",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 16.95,
+      "price": 1695,
       "category": "Herbal Supplements",
       
     
@@ -4375,7 +4372,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/floravani-718088_1024x.png?v=1660813425",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 10.95,
+      "price": 1095,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4389,7 +4386,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/glucocare-445898_1024x.png?v=1660858325",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 12.75,
+      "price": 1275,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4403,7 +4400,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/guggul-989338_1024x.png?v=1660858332",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 7.99,
+      "price": 719,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4417,7 +4414,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/heartcare-353117_1024x.png?v=1660858339",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 8.76,
+      "price": 816,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4431,7 +4428,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-energy-997862_1024x.jpg?v=1660858334",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 6.75,
+      "price": 625,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4445,7 +4442,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-joy-933428_1024x.jpg?v=1660858335",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 6.75,
+      "price": 635,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4459,7 +4456,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-peace-589514_1024x.jpg?v=1660858323",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 8.99,
+      "price": 389,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4473,7 +4470,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/holy-basil-740180_1024x.png?v=1660858325",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 9.88,
+      "price": 938,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4487,7 +4484,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/immunocare-629100_1024x.png?v=1660813422",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 13.75,
+      "price": 1375,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4501,7 +4498,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/jointcare-123162_1024x.png?v=1660858349",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 26.25,
+      "price": 2625,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4515,7 +4512,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-625921_1024x.png?v=1660813419",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 7.99,
+      "price": 749,
       "category": "Herbal Supplements",
       "sell_type": true,
 
@@ -4529,7 +4526,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-orange-cardamom-338868_1024x.png?v=1660858324",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 5.25,
+      "price": 515,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4543,7 +4540,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-vanilla-chai-899575_1024x.png?v=1660858358",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 5.29,
+      "price": 529,
       "category": "Herbal Supplements",
    
       "sell_type": true,
@@ -4557,7 +4554,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/leancare-847948_1024x.png?v=1660858341",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 18.75,
+      "price": 1875,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4571,7 +4568,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/livercare-524140_1024x.png?v=1660858343",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 6.65,
+      "price": 625,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4585,7 +4582,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/menocare-174498_1024x.png?v=1660858344",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 5.55,
+      "price": 565,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4599,7 +4596,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/menstricare-671572_1024x.png?v=1660858338",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 9.75,
+      "price": 695,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4613,7 +4610,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/mindcare-700685_1024x.png?v=1660858331",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 24.49,
+      "price": 2449,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4627,7 +4624,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-amla-944817_1024x.png?v=1660858354",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 9.86,
+      "price": 599,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4641,7 +4638,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-arjuna-622889_1024x.png?v=1660813420",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 7.75,
+      "price": 795,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4655,7 +4652,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ashwagandha-119670_1024x.png?v=1660858343",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 7.99,
+      "price": 799,
       "category": "Herbal Supplements",
       "sell_type": true,
 
@@ -4669,7 +4666,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-bacopa-858092_1024x.png?v=1660858317",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 8.99,
+      "price": 299,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4683,7 +4680,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-bitter-melon-139522_1024x.png?v=1660858343",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": "22.75",
+      "price": 275,
       "category": "Herbal Supplements",
       "sell_type": false,
 
@@ -4697,7 +4694,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-garcinia-475805_1024x.png?v=1660858332",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 21.25,
+      "price": 2125,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4711,7 +4708,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-garlic-712919_1024x.png?v=1660858358",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 12.25,
+      "price": 1225,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4725,7 +4722,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ginger-267736_1024x.png?v=1660858348",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 17.95,
+      "price": 1795,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4739,7 +4736,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-gotu-kola-470239_1024x.png?v=1660858345",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 12.75,
+      "price": 1275,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4753,7 +4750,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-guduchi-659950_1024x.png?v=1660858357",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": "12.75",
+      "price": 1275,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4767,7 +4764,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-gymnema-953558_1024x.png?v=1660813421",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 23.65,
+      "price": 2365,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4781,7 +4778,7 @@
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-licorice-304556_1024x.png?v=1660813420",
       "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
       "suggestedUse": "Adults take 2 capsules twice daily with food",
-      "price": 15.95,
+      "price": 1595,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4793,7 +4790,7 @@
       "id": 59,
       "name": "Organic Mucuna",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-mucuna-267584_1024x.png?v=1660813418",
-      "price": 19.95,
+      "price": 1995,
       "category": "Herbal Supplements",
     
       "sell_type": true,
@@ -4805,7 +4802,7 @@
       "id": 60,
       "name": "Organic Neem",
       "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-neem-420131_1024x.png?v=1660813427",
-      "price": 17.95,
+      "price": 1795,
       "category": "Herbal Supplements",
     
       "sell_type": false,
@@ -4815,6 +4812,1293 @@
     }
   ],
   "mamaearth": [
+    {
+        "id": 1,
+        "name": "Milky Soft body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 24,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 2,
+        "name": "Milky Soft face cream for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky_soft_face_cream_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 88,
+        
+        "price": "699",
+        "category": "baby"
+      }, {
+        "id": 3,
+        "name": "Nourishing bathing bar for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/n/o/nourishing-bathing-bars_2_anb6wlrvagej2noa.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 73,
+        
+        "price": "999",
+        "category": "baby"
+      }, {
+        "id": 4,
+        "name": "Nourishing hair oil for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 88,
+        
+        "price": "199",
+        "category": "baby"
+      }, {
+        "id": 5,
+        "name": "Coconut bodywash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-bw-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.2,
+        "reviews": 25,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 6,
+        "name": "Coco soft body lotion for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco_soft_body_lotion_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.6,
+        "reviews": 29,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 7,
+        "name": "Foaming face wash for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/_/f/_foaming-face-wash-for-kids_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 5.0,
+        "reviews": 86,
+        
+        "price": "399",
+        "category": "baby"
+      }, {
+        "id": 8,
+        "name": "Milky soft body lotion for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/_/m/_milky-soft-body-lotion__1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.6,
+        "reviews": 51,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 9,
+        "name": "Milky soft shampoo for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/m/i/milky-soft-shampoo-1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
+        "price": "899",
+        "category": "baby"
+      }, {
+        "id": 10,
+        "name": "Nourishing hair oil for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_hair_oil_200_ml_1200x1200__yh1i6qtlgyc253s5.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.7,
+        "reviews": 48,
+        
+        "price": "199",
+        "category": "baby"
+      }, {
+        "id": 11,
+        "name": "Soothing massage oil for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/b/a/baby_massage_oil_200_ml__1200x1200__i0oy2adtieurwcls.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.0,
+        "reviews": 44,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 12,
+        "name": "Fruit nourishing body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/b/o/body-wash_probs_ui8gwmtjnj2sahbz.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 71,
+        
+        "price": "499",
+        "category": "baby"
+      }, {
+        "id": 13,
+        "name": "Strawberry body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry_baby_body_wash_1.jpeg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "399",
+        "category": "baby"
+      }, {
+        "id": 14,
+        "name": "Plants based diaper pants",
+        "img": "https://honasa-mamaearth-production.imgix.net/d/i/diapers-xl-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.7,
+        "reviews": 48,
+        
+        "price": "899",
+        "category": "baby"
+      }, {
+        "id": 15,
+        "name": "Mamaearth strawberry body wash for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry_baby_body_wash_1.jpeg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 16,
+        "name": "Plants based diaper pants",
+        "img": "https://honasa-mamaearth-production.imgix.net/d/i/diapers-xl-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "399",
+        "category": "baby"
+      }, {
+        "id": 17,
+        "name": "Nourishing bathing gel for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/d/u/dusting-powder_300g_with-props_1200x1200__nbm9n3snr7a8y8tw.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.1,
+        "reviews": 58,
+        
+        "price": "799",
+        "category": "baby"
+      }, {
+        "id": 18,
+        "name": "Strawberry toothpaste for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/f/d/fds_3303_props_ruzez6eezs3ytpy8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
+        "price": "1099",
+        "category": "baby"
+      }, {
+        "id": 19,
+        "name": "Coconut soft shampoo for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-soft-shampoo_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "299",
+        "category": "baby"
+      }, {
+        "id": 20,
+        "name": "Coco soft face cream for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-soft-face-cream_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.5,
+        "reviews": 78,
+        
+        "price": "699",
+        "category": "baby"
+      }, {
+        "id": 21,
+        "name": "Coco soft massage oil for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-oil-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "899",
+        "category": "baby"
+      }, {
+        "id": 22,
+        "name": "Plant based body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/g/agent-apple-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "799",
+        "category": "baby"
+      }, {
+        "id": 23,
+        "name": "Haldi based body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/m/a/mango-body-wash.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.7,
+        "reviews": 48,
+        
+        "price": "699",
+        "category": "baby"
+      }, {
+        "id": 24,
+        "name": "Strawberry body wash for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/u/super-strawberry-body-lotion.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.1,
+        "reviews": 58,
+        
+        "price": "199",
+        "category": "baby"
+      }, {
+        "id": 25,
+        "name": "Mamaearth body kit for babies",
+        "img": "https://honasa-mamaearth-production.imgix.net/w/i/winter_essential_kit_for_babies_1_.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "2999",
+        "category": "baby"
+      }, {
+        "id": 26,
+        "name": "Coco and beans Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-lip-balm_1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
+        "price": "2199",
+        "category": "makeup"
+      }, {
+        "id": 27,
+        "name": "Apple Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_15.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
+        "price": "1299",
+        "category": "makeup"
+      }, {
+        "id": 28,
+        "name": "Strawberry Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_16.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.4,
+        "reviews": 62,
+        
+        "price": "299",
+        "category": "makeup"
+      }, {
+        "id": 29,
+        "name": "Glow Serum Foundation",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
+        "price": "2249",
+        "category": "makeup"
+      }, {
+        "id": 30,
+        "name": "Haldi Serum Foundation",
+        "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-face-serum1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.4,
+        "reviews": 62,
+        
+        "price": "699",
+        "category": "makeup"
+      }, {
+        "id": 31,
+        "name": "Honey based Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/v/i/vitamin-c-lip-balm_1_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.5,
+        "reviews": 78,
+        
+        "price": "2299",
+        "category": "makeup"
+      }, {
+        "id": 32,
+        "name": "Glow Serum Foundation",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_9.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "299",
+        "category": "makeup"
+      }, {
+        "id": 33,
+        "name": "Mamaearth Charcoal Black Kajal",
+        "img": "https://honasa-mamaearth-production.imgix.net/k/a/kajal_pack_of_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.1,
+        "reviews": 36,
+        
+        "price": "1599",
+        "category": "makeup"
+      }, {
+        "id": 34,
+        "name": "Nourishing natural lip balm",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/h/shea-butter-front.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 82,
+        
+        "price": "1899",
+        "category": "makeup"
+      }, {
+        "id": 35,
+        "name": "Glow Serum Foundation",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_2_13.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 87,
+        
+        "price": "1099",
+        "category": "makeup"
+      }, {
+        "id": 36,
+        "name": "Orange Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/h/shade_3.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.5,
+        "reviews": 78,
+        
+        "price": "1399",
+        "category": "makeup"
+      }, {
+        "id": 37,
+        "name": "Glow Concealer",
+        "img": "https://honasa-mamaearth-production.imgix.net/3/_/3_8.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.2,
+        "reviews": 39,
+        
+        "price": "2699",
+        "category": "makeup"
+      }, {
+        "id": 38,
+        "name": "Glow Oil Control Compact",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/r/artboard_3_8_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "2099",
+        "category": "makeup"
+      }, {
+        "id": 39,
+        "name": "Eye Primer",
+        "img": "https://honasa-mamaearth-production.imgix.net/p/r/product_swatch_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 82,
+        
+        "price": "2599",
+        "category": "makeup"
+      }, {
+        "id": 40,
+        "name": "Pomegranate Lipstick",
+        "img": "https://honasa-mamaearth-production.imgix.net/t/e/template_1_11.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "2499",
+        "category": "makeup"
+      }, {
+        "id": 41,
+        "name": "Strawberry Nourishing Lip Balm",
+        "img": "https://honasa-mamaearth-production.imgix.net/s/t/strawberry-front.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
+        "price": "2949",
+        "category": "makeup"
+      }, {
+        "id": 42,
+        "name": "Uptan Body Lotion",
+        "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-body-lotion1_2.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 82,
+        
+        "price": "2949",
+        "category": "body"
+      }, {
+        "id": 43,
+        "name": "Mamaearth Me Scent",
+        "img": "https://honasa-mamaearth-production.imgix.net/f/l/floral-e.com-1_1_3.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 3.8,
+        "reviews": 98,
+        
+        "price": "1399",
+        "category": "body"
+      }, {
+        "id": 44,
+        "name": "Rose Body Lotion",
+        "img": "https://honasa-mamaearth-production.imgix.net/r/o/rose-body-lotion_1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 18,
+        
+        "price": "1499",
+        "category": "body"
+      }, {
+        "id": 45,
+        "name": "Vitamin C Body Lotion",
+        "img": "https://honasa-mamaearth-production.imgix.net/v/i/vit-c-body-lotion-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
+        "price": "1899",
+        "category": "body"
+      }, {
+        "id": 46,
+        "name": "Uptan Nourishing Cold Cream",
+        "img": "https://honasa-mamaearth-production.imgix.net/u/b/ubtan-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "299",
+        "category": "body"
+      }, {
+        "id": 47,
+        "name": "Vitamin C Body Wash",
+        "img": "https://honasa-mamaearth-production.imgix.net/v/i/vitamin-c-body-wash-1_1_53czcglrjlhrmufp.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 18,
+        
+        "price": "799",
+        "category": "body"
+      }, {
+        "id": 48,
+        "name": "Mamaearth Cold Scent",
+        "img": "https://honasa-mamaearth-production.imgix.net/p/e/perfume-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 3.8,
+        "reviews": 82,
+        
+        "price": "499",
+        "category": "body"
+      }, {
+        "id": 49,
+        "name": "Nourishing bathing soap for kids",
+        "img": "https://honasa-mamaearth-production.imgix.net/a/l/all-range-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": true,
+        "rating": 4.2,
+        "reviews": 39,
+        
+        "price": "999",
+        "category": "body"
+      }, {
+        "id": 50,
+        "name": "Coco Nourishing Cold Cream",
+        "img": "https://honasa-mamaearth-production.imgix.net/c/o/coco-cold-cream-1.jpg?auto=compress&fit=scale&w=400&h=400",
+        "sell_type": false,
+        "rating": 4.0,
+        "reviews": 44,
+        
+        "price": "699",
+        "category": "body"
+      }
+],
+"organic":[
+    {
+      "id": 1,
+      "name": "Bamboo & Sea Salt Whitening Antiplaque Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/bamboo-sea-salt-whitening-antiplaque-toothpaste-363920_1024x.png?v=1660858353",
+      "price": 549,
+      "category": "Oral Care",
+      "sell_type": false,
+      "rating": 3.8,
+      "reviews": 87
+    },
+    {
+      "id": 2,
+      "name": "Charcoal & Black Seed Oil Whitening Antiplaque Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/charcoal-black-seed-oil-whitening-antiplaque-toothpaste-174005_1024x.png?v=1660858351",
+      "price": 549,
+      "category": "Oral Care",
+      "sell_type": true,
+      "rating": 4.4,
+      "reviews": 49
+    },
+    {
+      "id": 3,
+      "name": "Kids Toothpaste - Bubble Gum",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-bubble-gum-939127_1024x.jpg?v=1660858349",
+      "price": 449,
+      "category": "Oral Care",
+      "sell_type": false,
+      "rating": 3.9,
+      "reviews": 62
+    },
+    {
+      "id": 4,
+      "name": "Kids Toothpaste - Cool Mint",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-cool-mint-459294_1024x.jpg?v=1660858330",
+      "price": 449,
+      "category": "Oral Care",
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 62
+
+    },
+    {
+      "id": 5,
+      "name": "Kids Toothpaste - Orange",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/kids-toothpaste-orange-874168_1024x.jpg?v=1660813414",
+      "price": 449,
+      "category": "Oral Care",
+      "sell_type": false,
+      "rating": 3.5,
+      "reviews": 43
+
+    },
+    {
+      "id": 6,
+      "name": "Neem & Pomegranate Original Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/neem-pomegranate-original-toothpaste-399591_1024x.png?v=1660858351",
+      "price": 459,
+      "category": "Oral Care",
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 10
+
+    },
+    {
+      "id": 7,
+      "name": "Simply Cinnamon Complete Care Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/CC-Cinnamon---Box-Tube_1024x.png?v=1597743708",
+      "price": 459,
+      "category": "Oral Care",
+    
+      "sell_type": true,
+      "rating": 3.2,
+  "reviews": 41
+
+},
+    {
+      "id": 8,
+      "name": "Simply Mint Complete Care Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-complete-care-toothpaste-964667_1024x.png?v=1660858348",
+      "price": 519,
+      "category": "Oral Care",
+    
+      "sell_type": false,
+      "rating": 4.6,
+      "reviews": 67
+
+    },
+    {
+      "id": 9,
+      "name": "Simply Mint Whitening Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-mint-whitening-toothpaste-687185_1024x.png?v=1660858335",
+      "Product_desc": "Ditch your whitening routine and come to the plant-based side! Whitening Complete Care Simply Mint Toothpaste leverages the enzymes from Papaya and Pineapple to help whiten your teeth while removing stubborn surface stains and offering a remarkably great taste and foamy texture you’ll love.",
+      "suggestedUse": "Brush thoroughly after each meal, or at least twice a day, or as directed by a dentist. Consult your dentist for children under 2 years. Children under 6 years should use a pea-sized amount under adult supervision.",
+      "price": 549,
+      "category": "Oral Care",
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 40
+
+    },
+    {
+      "id": 10,
+      "name": "Simply Peppermint Complete Care Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-complete-care-toothpaste-417879_1024x.png?v=1660858326",
+      "price": 599,
+      "category": "Oral Care",
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 53
+
+    },
+    {
+      "id": 11,
+      "name": "Simply Peppermint Whitening Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-peppermint-whitening-toothpaste-812965_1024x.png?v=1660858328",
+      "price": 509,
+      "category": "Oral Care",
+    
+      "sell_type": false,
+      "rating": 3.6,
+      "reviews": 53
+
+    },
+    {
+      "id": 12,
+      "name": "Simply Spearmint Complete Care Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/simply-spearmint-complete-care-toothpaste-221182_1024x.png?v=1660858355",
+      "price": 599,
+      "category": "Oral Care",
+    
+      "sell_type": false,
+      "rating": 3.3,
+      "reviews": 51
+
+    },
+    {
+      "id": 13,
+      "name": "Turmeric & Coconut Oil Whitening Antiplaque Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/turmeric-coconut-oil-whitening-antiplaque-toothpaste-868330_1024x.jpg?v=1660813421",
+      "price": 599,
+      "category": "Oral Care",
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 56
+
+    },
+    {
+      "id": 14,
+      "name": "Xylitol Toothpaste",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/xylitol-toothpaste-556254_1024x.png?v=1660858352",
+      "price": 639,
+      "category": "Oral Care",
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 50
+
+    },
+    {
+      "id": 15,
+      "name": "Body Bar: Purifying (Neem & Turmeric)",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-purifying-neem-turmeric-342355_1024x.png?v=1660858341",
+      "price": 429,
+      "category": "Personal Care",
+    
+      "sell_type": false,
+      "rating": 4.2,
+      "reviews": 63
+
+    },
+    {
+      "id": 16,
+      "name": "Body Bar: Refreshing (Lavender & Rosemary)",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/body-bar-refreshing-lavender-rosemary-879892_1024x.png?v=1660858358",
+      "price": 419,
+      "category": "Personal Care",
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
+    },
+    {
+      "id": 17,
+      "name": "Chest Balm P.M.",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chest-balm-pm-819164_1024x.png?v=1660813421",
+      "price": 719,
+      "category": "Personal Care",
+    
+      "sell_type": true,
+      "rating": 4.9,
+      "reviews": 48
+
+    },
+    {
+      "id": 18,
+      "name": "Face Scrub: Exfoliating (Walnut & Wood Apple)",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-scrub-exfoliating-walnut-wood-apple-119171_1024x.png?v=1660813418",
+      "price": 189,
+      "category": "Personal Care",
+    
+      "sell_type": true,
+      "rating": 4.6,
+      "reviews": 79
+
+    },
+    {
+      "id": 19,
+      "name": "Face Wash: Balancing (Neem & Turmeric)",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-balancing-neem-turmeric-914790_1024x.png?v=1660813411",
+      "price": 899,
+      "category": "Personal Care",
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 40
+
+    },
+    {
+      "id": 20,
+      "name": "Face Wash: Hydrating",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-hydrating-797207_1024x.png?v=1660858314",
+      "price": 899,
+      "category": "Personal Care",
+      "sell_type": true,
+      "rating": 4.7,
+      "reviews": 50
+
+    },
+    {
+      "id": 21,
+      "name": "Face Wash: Invigorating",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/face-wash-invigorating-397240_1024x.png?v=1660858334",
+      "price": 899,
+      "category": "Personal Care",
+      "sell_type": true,
+      "rating": 3.2,
+      "reviews": 35
+
+    },
+    {
+      "id": 22,
+      "name": "Warming Body Balm",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/warming-body-balm-370691_1024x.png?v=1660858353",
+      "price": 799,
+      "category": "Personal Care",
+    
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
+    },
+    {
+      "id": 23,
+      "name": "Back To Balance Cleanse™️",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/back-to-balance-cleanse-297598_1024x.png?v=1660858351",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Part One: Take one capsule in the morning after breakfast. Part two: Take one capsule in the evening after dinner.",
+      "price": 2925,
+      "category": "Herbal Supplements",
+      "sell_type": true,
+      "rating": 3.3,
+      "reviews": 51
+
+    },
+    {
+      "id": 24,
+      "name": "Boswellia",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/boswellia-327756_1024x1024.png?v=1666136643",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1595,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 25,
+      "name": "Chyavanprash",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/chyavanprash-105275_1024x.png?v=1660858328",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 2275,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.3,
+      "reviews": 58
+
+    },
+    {
+      "id": 26,
+      "name": "ComfortCleanseⓇ",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/comfortcleanse-636861_1024x.png?v=1660858348",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1295,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 56
+
+    },
+    {
+      "id": 27,
+      "name": "Curcumin Complete™️",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/curcumin-complete-187497_1024x.png?v=1660858326",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1095,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.7,
+      "reviews": 56
+
+    },
+    {
+      "id": 28,
+      "name": "DermaCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/dermacare-422043_1024x.png?v=1660858352",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1695,
+      "category": "Herbal Supplements",
+      
+    
+      "sell_type": false,
+      "rating": 3.3,
+      "reviews": 51
+
+    },
+    {
+      "id": 29,
+      "name": "FlorAvaniⓇ",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/floravani-718088_1024x.png?v=1660813425",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1095,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 30,
+      "name": "GlucoCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/glucocare-445898_1024x.png?v=1660858325",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1275,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.6,
+      "reviews": 81
+
+    },
+    {
+      "id": 31,
+      "name": "Guggul",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/guggul-989338_1024x.png?v=1660858332",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 719,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.8,
+      "reviews": 30
+
+    },
+    {
+      "id": 32,
+      "name": "HeartCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/heartcare-353117_1024x.png?v=1660858339",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 816,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 33,
+      "name": "Hello Energy",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-energy-997862_1024x.jpg?v=1660858334",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 625,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 34,
+      "name": "Hello Joy",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-joy-933428_1024x.jpg?v=1660858335",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 635,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.0,
+      "reviews": 90
+
+    },
+    {
+      "id": 35,
+      "name": "Hello Peace",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/hello-peace-589514_1024x.jpg?v=1660858323",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 389,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 36,
+      "name": "Holy Basil",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/holy-basil-740180_1024x.png?v=1660858325",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 938,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.4,
+      "reviews": 72
+
+    },
+    {
+      "id": 37,
+      "name": "ImmunaCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/immunocare-629100_1024x.png?v=1660813422",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1375,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 3.9,
+      "reviews": 35
+
+    },
+    {
+      "id": 38,
+      "name": "JointCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/jointcare-123162_1024x.png?v=1660858349",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 2625,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.5,
+      "reviews": 51
+
+    },
+    {
+      "id": 39,
+      "name": "Koflet Lozenges",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-625921_1024x.png?v=1660813419",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 749,
+      "category": "Herbal Supplements",
+      "sell_type": true,
+
+      "rating": 4.8,
+      "reviews": 92
+
+    },
+    {
+      "id": 40,
+      "name": "Koflet Lozenges-Orange Cardamom",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-orange-cardamom-338868_1024x.png?v=1660858324",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 515,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 41,
+      "name": "Koflet Lozenges-Vanilla Chai",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/koflet-lozenges-vanilla-chai-899575_1024x.png?v=1660858358",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 529,
+      "category": "Herbal Supplements",
+   
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 73
+
+    },
+    {
+      "id": 42,
+      "name": "LeanCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/leancare-847948_1024x.png?v=1660858341",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1875,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 43,
+      "name": "LiverCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/livercare-524140_1024x.png?v=1660858343",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 625,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.2,
+      "reviews": 59
+
+    },
+    {
+      "id": 44,
+      "name": "MenoCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/menocare-174498_1024x.png?v=1660858344",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 565,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.9,
+      "reviews": 59
+
+    },
+    {
+      "id": 45,
+      "name": "MenstriCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/menstricare-671572_1024x.png?v=1660858338",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 695,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.4,
+      "reviews": 44
+
+    },
+    {
+      "id": 46,
+      "name": "MindCare",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/mindcare-700685_1024x.png?v=1660858331",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 2449,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.3,
+      "reviews": 60
+
+    },
+    {
+      "id": 47,
+      "name": "Organic Amla",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-amla-944817_1024x.png?v=1660858354",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 599,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.3,
+      "reviews": 59
+
+    },
+    {
+      "id": 48,
+      "name": "Organic Arjuna",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-arjuna-622889_1024x.png?v=1660813420",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 795,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 3.1,
+      "reviews": 23
+
+    },
+    {
+      "id": 49,
+      "name": "Organic Ashwagandha",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ashwagandha-119670_1024x.png?v=1660858343",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 799,
+      "category": "Herbal Supplements",
+      "sell_type": true,
+
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 50,
+      "name": "Organic Bacopa",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-bacopa-858092_1024x.png?v=1660858317",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 299,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.9,
+      "reviews": 54
+
+    },
+    {
+      "id": 51,
+      "name": "Organic Bitter Melon",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-bitter-melon-139522_1024x.png?v=1660858343",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 275,
+      "category": "Herbal Supplements",
+      "sell_type": false,
+
+      "rating": 4.8,
+      "reviews": 73
+
+    },
+    {
+      "id": 52,
+      "name": "Organic Garcinia",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-garcinia-475805_1024x.png?v=1660858332",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 2125,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 4.1,
+      "reviews": 98
+
+    },
+    {
+      "id": 53,
+      "name": "Organic Garlic",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-garlic-712919_1024x.png?v=1660858358",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1225,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 20
+
+    },
+    {
+      "id": 54,
+      "name": "Organic Ginger",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-ginger-267736_1024x.png?v=1660858348",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1795,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
+    {
+      "id": 55,
+      "name": "Organic Gotu Kola",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-gotu-kola-470239_1024x.png?v=1660858345",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1275,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 3.1,
+      "reviews": 53
+
+    },
+    {
+      "id": 56,
+      "name": "Organic Guduchi",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-guduchi-659950_1024x.png?v=1660858357",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1275,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 23
+
+    },
+    {
+      "id": 57,
+      "name": "Organic Gymnema",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-gymnema-953558_1024x.png?v=1660813421",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 2365,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 54
+
+    },
+    {
+      "id": 58,
+      "name": "Organic Licorice",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-licorice-304556_1024x.png?v=1660813420",
+      "Product_desc": "To keep your body cleaner and feel less bloated, you deserve more than just a quick herbal purge. You deserve the morning and evening wisdom of Himalaya Back to Balance Cleanse, a gentle and effective two-part plant-based detox program.",
+      "suggestedUse": "Adults take 2 capsules twice daily with food",
+      "price": 1595,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.0,
+      "reviews": 53
+
+    },
+    {
+      "id": 59,
+      "name": "Organic Mucuna",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-mucuna-267584_1024x.png?v=1660813418",
+      "price": 1995,
+      "category": "Herbal Supplements",
+    
+      "sell_type": true,
+      "rating": 4.1,
+      "reviews": 50
+
+    },
+    {
+      "id": 60,
+      "name": "Organic Neem",
+      "img": "https://cdn.shopify.com/s/files/1/0399/1728/9633/products/organic-neem-420131_1024x.png?v=1660813427",
+      "price": 1795,
+      "category": "Herbal Supplements",
+    
+      "sell_type": false,
+      "rating": 5.0,
+      "reviews": 74
+
+    },
     {
         "id": 1,
         "name": "Milky Soft body wash for babies",
