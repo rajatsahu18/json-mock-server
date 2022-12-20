@@ -6600,5 +6600,80 @@
         "price": "699",
         "category": "body"
       }
-]
+],
+"stacks":{
+
+  "stack1":[
+    {
+			"id": 0,
+			"title": "Ball"
+		},
+		{
+			"id": 1,
+			"title": "Bat"
+		},
+		{
+			"id": 2,
+			"title": "Tennis"
+		},
+		{
+			"id": 3,
+			"title": "Coffee"
+		},
+		{
+			"id": 4,
+			"title": "Hats"
+		}
+  ],
+  "stack2":[
+    {
+			"id": 0,
+			"title": "Cricket"
+		},
+		{
+			"id": 1,
+			"title": "Sports"
+		},
+		{
+			"id": 2,
+			"title": "football"
+		},
+		{
+			"id": 3,
+			"title": "NBA"
+		}
+  ],
+  "stack3":[
+    {
+			"id": 0,
+			"title": "Worldcup"
+		},
+		{
+			"id": 1,
+			"title": "IPL"
+		},
+		{
+			"id": 2,
+			"title": "PKL"
+		}
+  ],
+  "stack4":[
+    {
+			"id": 0,
+			"title": "FIFA"
+		},
+		{
+			"id": 1,
+			"title": "India"
+		},
+		{
+			"id": 2,
+			"title": "Hockey"
+		},
+		{
+			"id": 3,
+			"title": "Kabbadi"
+		}
+  ]
+}
 }
