@@ -6679,17 +6679,17 @@
     {
       "id":1,
       "title":"R1 wants to marry V1",
-      "status": "Pending"
+      "status": "false"
     },
     {
       "id":1,
       "title":"R2 wants to marry V2",
-      "status": "Pending"
+      "status": "false"
     },
     {
       "id":1,
       "title":"R1 wants to marry V3",
-      "status": "Pending"
+      "status": "false"
     }
   ]
 }
