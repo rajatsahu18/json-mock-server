@@ -6678,15 +6678,18 @@
   "getMarriageData":[
     {
       "id":1,
-      "title":"R1 wants to marry V1"
+      "title":"R1 wants to marry V1",
+      "status": "Pending"
     },
     {
       "id":1,
-      "title":"R2 wants to marry V2"
+      "title":"R2 wants to marry V2",
+      "status": "Pending"
     },
     {
       "id":1,
-      "title":"R1 wants to marry V3"
+      "title":"R1 wants to marry V3",
+      "status": "Pending"
     }
   ]
 }
