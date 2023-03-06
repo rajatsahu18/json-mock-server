@@ -6695,25 +6695,25 @@
   "lms":[
     {
       "type": "LmsItemType.VIDEO",
-      "url": "BpmaRdZBMqI",
+      "url": "https://youtu.be/GOSKwX3OEXw",
       "title": "Design Thinking  part-1",
       "order": 1
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "xUP6bM-h5fQ",
+      "url": "https://youtu.be/OTuph9pJWU4",
       "title": "Design Thinking  part-2",
       "order": 2
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "wIYusrZ2CYg",
+      "url": "https://www.youtube.com/watch?v=dJpIU1rSOFY",
       "title": "Design Thinking  part-3",
       "order": 3
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "z3nb4mg7emA",
+      "url": "https://www.youtube.com/watch?v=lqrM5sJ743U",
       "title": "Design Thinking  part-4",
       "order": 4
     },
@@ -6725,13 +6725,13 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "q5I91D2WgW4",
+      "url": "https://www.youtube.com/watch?v=jp6IENCaHGw",
       "title": "Design Thinking  part-5",
       "order": 6
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "kERl2DJnWd0",
+      "url": "https://www.youtube.com/watch?v=OTuph9pJWU4",
       "title": "Design Thinking  part-6",
       "order": 7
     },
@@ -6743,7 +6743,7 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "1wF2I20rocE",
+      "url": "https://www.youtube.com/watch?v=jp6IENCaHGw",
       "title": "Introduction to Scratch",
       "order": 9
     },
@@ -6755,13 +6755,13 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "NhI51egN9OM",
+      "url": "https://www.youtube.com/watch?v=OTuph9pJWU4",
       "title": "Sequencing 1.0",
       "order": 11
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "usamSV3OU48",
+      "url": "https://www.youtube.com/watch?v=OTuph9pJWU4",
       "title": "Sequencing 1.1",
       "order": 12
     },
@@ -6773,13 +6773,13 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "YpLUOzDztvw",
+      "url": "https://www.youtube.com/watch?v=PUJEwZGnksg",
       "title": "Algorithms 1.0",
       "order": 14
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "mIdUx-sOUm8",
+      "url": "https://www.youtube.com/watch?v=VNbFLCZ9KEY",
       "title": "Algorithms 1.1",
       "order": 15
     },
@@ -6791,19 +6791,19 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "oyzQiUms8Ac",
+      "url": "https://www.youtube.com/watch?v=dJpIU1rSOFY",
       "title": "Looping 1.0",
       "order": 17
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "YjL08-L0TBg",
+      "url": "https://www.youtube.com/watch?v=PUJEwZGnksg",
       "title": "Looping 1.1",
       "order": 18
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "NlKO5AYBCwo",
+      "url": "https://www.youtube.com/watch?v=dJpIU1rSOFY",
       "title": "Looping 1.2",
       "order": 19
     },
@@ -6815,13 +6815,13 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "p0mFhnUGwuE",
+      "url": "https://www.youtube.com/watch?v=PUJEwZGnksg",
       "title": "Variables 1.0",
       "order": 21
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "oDjkSJxj5t8",
+      "url": "https://www.youtube.com/watch?v=VNbFLCZ9KEY",
       "title": "Variables 1.1",
       "order": 22
     },
@@ -6833,13 +6833,13 @@
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "6xUCVNebfik",
+      "url": "https://www.youtube.com/watch?v=PUJEwZGnksg",
       "title": "Conditions 1.0",
       "order": 24
     },
     {
       "type": "LmsItemType.VIDEO",
-      "url": "jc13a8Aehv4",
+      "url": "https://www.youtube.com/watch?v=dJpIU1rSOFY",
       "title": "Conditions 1.1",
       "order": 25
     }
